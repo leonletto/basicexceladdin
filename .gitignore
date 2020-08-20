@@ -1,0 +1,24 @@
+# compiled output
+dist
+tmp
+
+# Don't checkin Secrets
+secrets
+.env
+
+package-lock.json
+
+# dependencies
+node_modules
+
+# IDEs and editors
+.idea
+.vscode
+.project
+.classpath
+*.launch
+
+
+#System Files
+.DS_Store
+Thumbs.db
